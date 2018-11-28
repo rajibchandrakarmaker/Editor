@@ -1,0 +1,24 @@
+{
+  "blocksLimit": 1,
+  "isLimit": false,
+  "value": {
+    "document": {
+      "nodes": [
+        {
+          "object": "block",
+          "type": "paragraph",
+          "nodes": [
+            {
+              "object": "text",
+              "leaves": [
+                {
+                  "text": "Write your content here"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
