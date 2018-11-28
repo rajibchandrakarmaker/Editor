@@ -2,7 +2,7 @@
   "name": "twisker-editor",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://rajibchandrakarmaker.github.io/twiskerEditor",
+  "homepage": "https://rajibchandrakarmaker.github.io/Editor",
   "dependencies": {
     "emotion": "^9.2.12",
     "gh-pages": "^2.0.1",
