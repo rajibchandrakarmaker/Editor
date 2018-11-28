@@ -17,6 +17,16 @@ visit http://localhost:3000/
 https://rajibchandrakarmaker.github.io/Editor
 
 
+# Features 
+<ul>
+<li>A toolbar with some sample commands</li>
+<li>Image inserting from a link and upload only image from computer</li>
+<li>Ordered/Unordered list with indentation support (SHIFT + TAB) commands</li>
+<li>Save data in local storage and discard changes functionality</li>
+<li>A configurable limit on the number of top-level block nodes in the editor</li>
+<li>Hotkey support for some commands like bold, italic, underline, save, tab indentation of list items.</li>
+</ul>
+
 ## Available Scripts
 
 In the project directory, you can run:
