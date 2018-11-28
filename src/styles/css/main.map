@@ -1,0 +1,42 @@
+{
+	"version": 3,
+	"file": "../scss/main.css",
+	"sources": [
+		"../scss/main.scss",
+		"../scss/base/_variables.scss",
+		"../scss/base/_mixins.scss",
+		"../scss/base/_normalize.scss",
+		"../scss/base/_base.scss",
+		"../scss/modules/_typography.scss",
+		"../scss/modules/_blocks.scss",
+		"../scss/modules/_buttons.scss",
+		"../scss/modules/_sections.scss",
+		"../scss/modules/_components.scss",
+		"../scss/modules/_invoice.scss",
+		"../scss/layouts/_nav.scss",
+		"../scss/layouts/_header.scss",
+		"../scss/layouts/_footer.scss",
+		"../scss/layouts/_sidebar.scss",
+		"../scss/layouts/_media-queries.scss"
+	],
+	"sourcesContent": [
+		"/**\n* @author Rajib karmaker\n*/\n\n/* BASE - Base styles, variables, mixins, etc*/\n@import \"base/variables\";\n@import \"base/mixins\";\n@import \"base/normalize\";\n@import \"base/base\";\n\n/* MODULES - Individual site components*/\n@import \"modules/typography\";\n@import \"modules/blocks\";\n@import \"modules/buttons\";\n@import \"modules/sections\";\n@import \"modules/components\";\n@import \"modules/invoice\";\n\n/* LAYOUTS - Page layout styles*/\n@import \"layouts/nav\";\n@import \"layouts/header\";\n@import \"layouts/footer\";\n@import \"layouts/sidebar\";\n@import \"layouts/media-queries\";",
+		"",
+		"",
+		"",
+		"body{\r\n    margin: 0;\r\n    padding: 0\r\n}",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"mappings": "AAAA;;EAEE;AAEF,+CAA+C;;AIJ/C,AAAA,IAAI,CAAA;EACA,MAAM,EAAE,CAAE;EACV,OAAO,EAAE,CACZ;CAAC;;AJOF,yCAAyC;AAQzC,iCAAiC",
+	"names": []
+}

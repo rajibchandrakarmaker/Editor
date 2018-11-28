@@ -1,0 +1,37 @@
+{
+  "name": "twisker-editor",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://rajibchandrakarmaker.github.io/twiskerEditor",
+  "dependencies": {
+    "emotion": "^9.2.12",
+    "gh-pages": "^2.0.1",
+    "image-extensions": "^1.1.0",
+    "immutable": "^4.0.0-rc.12",
+    "is-hotkey": "^0.1.4",
+    "is-url": "^1.2.4",
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1",
+    "react-emotion": "^9.2.12",
+    "react-scripts": "2.1.1",
+    "slate": "^0.44.4",
+    "slate-react": "^0.21.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
